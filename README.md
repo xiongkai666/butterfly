@@ -24,7 +24,7 @@
 
 ---
 
-## 💻 Installation
+## 💻 Installation.
 
 ### GIT
 
